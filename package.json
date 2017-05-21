@@ -1,0 +1,26 @@
+{
+  "name": "olubukola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGUNSOLA/olubukola.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OGUNSOLA/olubukola.github.io/issues"
+  },
+  "homepage": "https://github.com/OGUNSOLA/olubukola.github.io#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-minify": "^1.0.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-watch": "^4.3.11"
+  }
+}
